@@ -22,26 +22,41 @@
 
 ---
 
-## 🚨 Key Findings
-📍 Readmission Rate → 23.5% ⚠️ JCI Benchmark: ≤15%
-📍 Prolonged Stay → 17.6% ⚠️ Benchmark: ≤15%
-📍 Chronic Readmission → 35–41% 🔴 vs Non-Chronic: 12–15%
-📍 Scheduled Wait Time → 44 min ⚠️ Benchmark: ≤30 min
-📍 HR vs LR Gap → +10.3 pts 🔴 Oncology — largest gap
+## 🔍 Key Findings
+
+| # | Finding | Value | Benchmark | Status |
+|---|---------|-------|-----------|--------|
+| 1 | 30-Day Readmission Rate | **23.5%** | ≤15% (JCI) | 🔴 +57% above standard |
+| 2 | Prolonged Stay Rate (LOS ≥6d) | **17.6%** | ≤15% | 🟡 Above target |
+| 3 | Readmission — Chronic patients (all ages) | **35.2–40.8%** | — | 🔴 Critical |
+| 4 | Avg Wait Time — Scheduled patients | **~44.3 min** | ≤30 min | 🔴 +47% longer |
+| 5 | Wait Time Gap (Scheduled vs Emergency) | **+18–20 min** | — | 🔴 Systemic issue |
+
+### 💡 Top Insights
+
+**1. Chronic condition is the strongest readmission predictor**
+Chronic patients aged 35–49 have the highest readmission rate (**40.8%**), surpassing even seniors 65+ (38.1%). The gap between Chronic and Non-Chronic patients is consistently **~23–27 percentage points** across all age groups — making chronic condition a far stronger predictor than age alone.
+
+**2. Prolonged Stay is a triple burden**
+Patients with LOS ≥6 days incur **2.5× higher costs**, a **30.2% readmission rate** (vs 18.0% for short stays), and the lowest satisfaction scores — all simultaneously. Discharge planning intervention on this segment delivers the highest return on investment.
+
+**3. Oncology has the largest High vs Low-Risk readmission gap**
+Despite not having the highest absolute readmission rate, Oncology shows the widest gap between High-Risk and Low-Risk patients (**10.3 percentage points**) — indicating that risk profiling is the most decisive factor in this department.
+
+**4. Scheduled patient wait time is a systemic bottleneck**
+Elective patients wait **18–20 minutes longer** than emergency patients across all 5 departments — a counterintuitive finding that points to a systemic scheduling process failure, not a single-department issue.
 
 ---
 
+## ✅ Recommendations
 
----
-
-## 💡 Insights at a Glance
-
-| # | Insight | Impact |
-|---|---------|--------|
-| 1 | Chronic patients aged **35–49** have the **highest readmission rate (40.8%)** — surpassing seniors 65+ | 🔴 Critical |
-| 2 | Prolonged Stay patients cost **2.5× more** with **30.2% readmission** and lowest satisfaction | 🔴 Critical |
-| 3 | Oncology shows the **widest HR vs LR readmission gap** (10.3 pts) across all departments | 🔴 Critical |
-| 4 | Scheduled patients wait **18–20 min longer** than emergency — consistent across all 5 departments | 🟡 Systemic |
+| Priority | Recommendation | Target Impact |
+|---|---|---|
+| 🔴 High | **R1: Chronic Care Bridge** — 7-day post-discharge follow-up for all chronic patients | Reduce chronic readmission from ~39% to ≤25% |
+| 🔴 High | **R2: Proactive Discharge Planning** — Case Manager review triggered at LOS Day 4 | Reduce Prolonged Stay from 17.6% to ≤12% |
+| 🔴 High | **R3: Oncology Post-Discharge Program** — Dedicated care coordinator for High-Risk patients | Close HR vs LR gap from 10.3 to ≤6 points |
+| 🟡 Medium | **R4: Elective Scheduling Redesign** — H-1 confirmation system for scheduled patients | Reduce scheduled wait time from ~44 to ≤30 min |
+| 🟡 Medium | **R5: Real-Time KPI Dashboard** — Daily monitoring with threshold alerts | Enable proactive hospital management |
 
 ---
 
