@@ -8,7 +8,7 @@
 [![Dashboard](https://img.shields.io/badge/Live_Dashboard-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://datastudio.google.com/reporting/d429c6fb-be3b-461d-bf35-f92af18e4eea)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananda-anugrah-062741387/)
 
-![Dashboard Preview](assets/dashboard-preview.png)
+![Dashboard Preview](dashboard/dashboard-preview.png)
 
 </div>
 
@@ -52,7 +52,7 @@
 
 | Page 1 — Patient Flow Overview | Page 2 — Risk & Bottleneck |
 |---|---|
-| ![Page 1](assets/page1-preview.png) | ![Page 2](assets/page2-preview.png) |
+| ![Page 1](dashboard/page1-preview.png) | ![Page 2](dashboard/page2-preview.png) |
 
 ---
 
