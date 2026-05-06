@@ -1,0 +1,6 @@
+department,high_risk_count,low_risk_count,total_patients,high_risk_pct,avg_los_high_risk,avg_los_low_risk,readmission_high_risk_pct,readmission_low_risk_pct
+cardiology,320,268,588,54.4,3.78,3.34,28.1,20.9
+polyclinic,328,285,613,53.5,3.88,3.44,26.2,17.2
+er,322,280,602,53.5,3.73,3.01,26.4,18.6
+neurology,318,281,599,53.1,3.68,3.32,28.6,20.6
+oncology,308,290,598,51.5,3.99,3.02,27.9,17.6
